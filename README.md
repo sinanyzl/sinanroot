@@ -2,7 +2,7 @@
 Ben Sinan,
 Yazılımı, bilgisayarı ve teknolojiyi severim.
 
-Belgesel izlerim, geli gibi bisiklet sürerim, halısahaya adam olurum...
+Belgesel izlerim, bisiklet sürerim, halısahaya giderim...
 
 
 
