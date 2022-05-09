@@ -1,6 +1,6 @@
 ### Hi there 👋
 Ben Sinan,
-Yazılımı, bilgisayarı ve teknolojiyi severim.
+yazılımı, bilgisayarı ve teknolojiyi severim.
 
 Belgesel izlerim, bisiklet sürerim, halısahaya giderim, kahve tüketirim...
 
