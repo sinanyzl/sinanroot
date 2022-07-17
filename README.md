@@ -2,7 +2,7 @@
 Ben Sinan,
 yazılımı, bilgisayarı ve teknolojiyi severim.
 
-[Belgesel izlerim, bisiklete binerim, halısahaya giderim, kahve tüketirim...]
+String[] sinan = {"belgesel izlerim", "bisiklete binerim", "halısahaya giderim", "kahve tüketirim", "köpek severim"};
 
 
 
